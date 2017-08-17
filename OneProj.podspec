@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/yhcoding/OneProj"
 
-  s.license      = "MIT"
+  s.license      = "Apache License 2.0”
   s.author             = { "yhcoo" => "yhcoding@163.com" }
 
   s.platform     = :ios, "7.0"
